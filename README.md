@@ -38,5 +38,4 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 ![3_D maze](https://www.youtube.com/watch?v=y5FlT2oApag) 
  
 
-=======
->>>>>>> 3d19f239b7294631469161b86aca714b5bdb509b
+
