@@ -36,7 +36,11 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 #Flow chart
 ![Capture](https://user-images.githubusercontent.com/88714347/171421868-d6a7a3d6-6acd-495e-9506-7ab381bba5a4.JPG)
 # project Demo
-![3_D maze](https://user-images.githubusercontent.com/88714347/171424515-ba1ef27a-3b5c-4879-a40c-fb9931e7619c.mp4) 
+https://user-images.githubusercontent.com/88714347/171424515-ba1ef27a-3b5c-4879-a40c-fb9931e7619c.mp4)
  
+
+
+
+
 
 
