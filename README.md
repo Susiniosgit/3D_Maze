@@ -31,9 +31,9 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
  S or down arrow - Moving backward
  left arrow key - to rotate the player in counter clock wise direction
  right arrow key - to rotate the player in clock wise direction
-<<<<<<< HEAD
+
 #Flow chart
- 
+ ![](images/maze flow.jpg)
 # project Demo
 ![3_D maze](https://www.youtube.com/watch?v=y5FlT2oApag) 
  
