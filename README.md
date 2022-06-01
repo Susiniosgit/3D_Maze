@@ -37,6 +37,10 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 ![Capture](https://user-images.githubusercontent.com/88714347/171421868-d6a7a3d6-6acd-495e-9506-7ab381bba5a4.JPG)
 # project Demo
  [![3D Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
+# Authors
+Susinios legesse(https://github.com/Susiniosgit)
+Sentayehu Tilahun(https://github.com/sentayehut)
+Ephrem Abebe(https://github.com/ephayeabe)
 
 
 
